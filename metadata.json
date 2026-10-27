@@ -1,0 +1,7 @@
+{
+  "name": "DocuMind AI – Your Personal Knowledge Brain",
+  "description": "Upload documents, ask questions with grounded citations, generate summaries, compare multiple documents, and create study revision materials.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

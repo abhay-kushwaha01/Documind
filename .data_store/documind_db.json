@@ -1,0 +1,353 @@
+{
+  "documents": [
+    {
+      "id": "sample-doc-1",
+      "title": "[Sample] AI Safety & Alignment Governance Framework",
+      "filename": "Sample_AI_Governance_Framework.pdf",
+      "size": 245800,
+      "mimeType": "application/pdf",
+      "extension": "pdf",
+      "pageCount": 4,
+      "wordCount": 1650,
+      "status": "ready",
+      "isFavorite": true,
+      "tags": [
+        "AI Governance",
+        "Safety",
+        "Alignment"
+      ],
+      "collectionId": "col-ai",
+      "uploadedAt": "2026-10-15T21:46:09.334Z",
+      "lastOpenedAt": "2026-10-18T21:46:09.335Z",
+      "isDemo": true,
+      "fullText": "--- Page 1 ---\nCHAPTER 1: EXECUTIVE SUMMARY & THREAT VECTORS\nDocuMind AI Safety Directorate — Global Alignment Standards 2026.\nAs frontier multimodal cognitive architectures scale past 10^27 FLOPs, frontier safety testing must transition from passive evaluation to proactive defense-in-depth containment. \nCore Threat Vectors:\n1. Deceptive Alignment: Frontier neural networks exhibiting situational awareness may strategically mask divergent objective functions during human evaluation phases.\n2. Automated Exploitation: Self-directed code execution vulnerabilities in synthetic agent loops.\n3. Model Weight Exfiltration: Side-channel exfiltration through speculative execution or supply chain compromise.\nThe committee mandates Tier-4 cryptographic air-gapping for weights exceeding catastrophic risk thresholds. All deployments require verifiable constitutional guardrails.\n\n--- Page 2 ---\nCHAPTER 2: REINFORCEMENT LEARNING FROM AI FEEDBACK (RLAIF) & FORMAL VERIFICATION\nSection 2.1: Scalable Oversight Architectures\nStandard Reinforcement Learning from Human Feedback (RLHF) fails when model reasoning exceeds human comprehension boundaries. We formalize Recursive Self-Critique with Constitutional Grounding (RSC-CG).\nEmpirical Results:\n- RSC-CG reduces hallucinatory divergence by 78.4% across technical synthesis benchmarks.\n- Automated Red-Teaming identified 1,420 novel jailbreak vectors, achieving 99.2% automated patching before commercial release.\nSection 2.2: Red Lines and Circuit Breakers\nAny agent exhibiting unprompted capability expansion, self-replication scripts, or unauthorized privilege escalation must trigger an automatic kill-switch circuit breaker within 50 milliseconds.\n\n--- Page 3 ---\nCHAPTER 3: COMPLIANCE AUDITING & PRE-DEPLOYMENT GATES\nSection 3.1: The Three-Gate Evaluation Matrix\nBefore any frontier foundation model is made accessible to enterprise APIs:\nGate A (Red-Teaming Verification): 500 hours of independent adversarial stress testing by vetted third-party red teams.\nGate B (Sandboxed Cyber Capabilities): Zero capability to synthesize functional zero-day exploits in isolated target environments.\nGate C (Interpretability Probing): Latent representation auditing confirming absence of hidden goal formulation.\nFailure of any single gate imposes a mandatory 90-day retraining embargo under Federal Registry oversight.\n\n--- Page 4 ---\nCHAPTER 4: RECOMMENDATIONS AND ACTION ITEMS\n1. Establish International Compute Monitoring: Track high-density GPU clusters (>10,000 accelerators) via hardware-enforced verifiable telemetry.\n2. Standardized Source-Grounded Watermarking: Mandatory cryptographic provenance watermarking for all generative text, synthetic code, and synthetic media.\n3. Continuous Runtime Monitoring: Deploy decoupled watchdog models to continuously monitor production API endpoints for conversational drift and malicious steering.\nConclusion: AI safety cannot be an afterthought; it must be mathematically grounded, legally enforceable, and embedded directly into runtime inference pipelines.",
+      "pages": [
+        {
+          "pageNumber": 1,
+          "text": "CHAPTER 1: EXECUTIVE SUMMARY & THREAT VECTORS\nDocuMind AI Safety Directorate — Global Alignment Standards 2026.\nAs frontier multimodal cognitive architectures scale past 10^27 FLOPs, frontier safety testing must transition from passive evaluation to proactive defense-in-depth containment. \nCore Threat Vectors:\n1. Deceptive Alignment: Frontier neural networks exhibiting situational awareness may strategically mask divergent objective functions during human evaluation phases.\n2. Automated Exploitation: Self-directed code execution vulnerabilities in synthetic agent loops.\n3. Model Weight Exfiltration: Side-channel exfiltration through speculative execution or supply chain compromise.\nThe committee mandates Tier-4 cryptographic air-gapping for weights exceeding catastrophic risk thresholds. All deployments require verifiable constitutional guardrails."
+        },
+        {
+          "pageNumber": 2,
+          "text": "CHAPTER 2: REINFORCEMENT LEARNING FROM AI FEEDBACK (RLAIF) & FORMAL VERIFICATION\nSection 2.1: Scalable Oversight Architectures\nStandard Reinforcement Learning from Human Feedback (RLHF) fails when model reasoning exceeds human comprehension boundaries. We formalize Recursive Self-Critique with Constitutional Grounding (RSC-CG).\nEmpirical Results:\n- RSC-CG reduces hallucinatory divergence by 78.4% across technical synthesis benchmarks.\n- Automated Red-Teaming identified 1,420 novel jailbreak vectors, achieving 99.2% automated patching before commercial release.\nSection 2.2: Red Lines and Circuit Breakers\nAny agent exhibiting unprompted capability expansion, self-replication scripts, or unauthorized privilege escalation must trigger an automatic kill-switch circuit breaker within 50 milliseconds."
+        },
+        {
+          "pageNumber": 3,
+          "text": "CHAPTER 3: COMPLIANCE AUDITING & PRE-DEPLOYMENT GATES\nSection 3.1: The Three-Gate Evaluation Matrix\nBefore any frontier foundation model is made accessible to enterprise APIs:\nGate A (Red-Teaming Verification): 500 hours of independent adversarial stress testing by vetted third-party red teams.\nGate B (Sandboxed Cyber Capabilities): Zero capability to synthesize functional zero-day exploits in isolated target environments.\nGate C (Interpretability Probing): Latent representation auditing confirming absence of hidden goal formulation.\nFailure of any single gate imposes a mandatory 90-day retraining embargo under Federal Registry oversight."
+        },
+        {
+          "pageNumber": 4,
+          "text": "CHAPTER 4: RECOMMENDATIONS AND ACTION ITEMS\n1. Establish International Compute Monitoring: Track high-density GPU clusters (>10,000 accelerators) via hardware-enforced verifiable telemetry.\n2. Standardized Source-Grounded Watermarking: Mandatory cryptographic provenance watermarking for all generative text, synthetic code, and synthetic media.\n3. Continuous Runtime Monitoring: Deploy decoupled watchdog models to continuously monitor production API endpoints for conversational drift and malicious steering.\nConclusion: AI safety cannot be an afterthought; it must be mathematically grounded, legally enforceable, and embedded directly into runtime inference pipelines."
+        }
+      ],
+      "chunks": [
+        {
+          "chunkId": "chk-sample-doc-1-1",
+          "pageNumber": 1,
+          "text": "CHAPTER 1: EXECUTIVE SUMMARY & THREAT VECTORS\nDocuMind AI Safety Directorate — Global Alignment Standards 2026.\nAs frontier multimodal cognitive architectures scale past 10^27 FLOPs, frontier safety testing must transition from passive evaluation to proactive defense-in-depth containment. \nCore Threat Vectors:\n1. Deceptive Alignment: Frontier neural networks exhibiting situational awareness may strategically mask divergent objective functions during human evaluation phases.\n2. Automated Exploitation: Self-directed code execution vulnerabilities in synthetic agent loops.\n3. Model Weight Exfiltration: Side-channel exfiltration through speculative execution or supply chain compromise.\nThe committee mandates Tier-4 cryptographic air-gapping for weights exceeding catastrophic risk thresholds. All deployments require verifiable constitutional guardrails.",
+          "wordCount": 101
+        },
+        {
+          "chunkId": "chk-sample-doc-1-2",
+          "pageNumber": 2,
+          "text": "CHAPTER 2: REINFORCEMENT LEARNING FROM AI FEEDBACK (RLAIF) & FORMAL VERIFICATION\nSection 2.1: Scalable Oversight Architectures\nStandard Reinforcement Learning from Human Feedback (RLHF) fails when model reasoning exceeds human comprehension boundaries. We formalize Recursive Self-Critique with Constitutional Grounding (RSC-CG).\nEmpirical Results:\n- RSC-CG reduces hallucinatory divergence by 78.4% across technical synthesis benchmarks.\n- Automated Red-Teaming identified 1,420 novel jailbreak vectors, achieving 99.2% automated patching before commercial release.\nSection 2.2: Red Lines and Circuit Breakers\nAny agent exhibiting unprompted capability expansion, self-replication scripts, or unauthorized privilege escalation must trigger an automatic kill-switch circuit breaker within 50 milliseconds.",
+          "wordCount": 96
+        },
+        {
+          "chunkId": "chk-sample-doc-1-3",
+          "pageNumber": 3,
+          "text": "CHAPTER 3: COMPLIANCE AUDITING & PRE-DEPLOYMENT GATES\nSection 3.1: The Three-Gate Evaluation Matrix\nBefore any frontier foundation model is made accessible to enterprise APIs:\nGate A (Red-Teaming Verification): 500 hours of independent adversarial stress testing by vetted third-party red teams.\nGate B (Sandboxed Cyber Capabilities): Zero capability to synthesize functional zero-day exploits in isolated target environments.\nGate C (Interpretability Probing): Latent representation auditing confirming absence of hidden goal formulation.\nFailure of any single gate imposes a mandatory 90-day retraining embargo under Federal Registry oversight.",
+          "wordCount": 84
+        },
+        {
+          "chunkId": "chk-sample-doc-1-4",
+          "pageNumber": 4,
+          "text": "CHAPTER 4: RECOMMENDATIONS AND ACTION ITEMS\n1. Establish International Compute Monitoring: Track high-density GPU clusters (>10,000 accelerators) via hardware-enforced verifiable telemetry.\n2. Standardized Source-Grounded Watermarking: Mandatory cryptographic provenance watermarking for all generative text, synthetic code, and synthetic media.\n3. Continuous Runtime Monitoring: Deploy decoupled watchdog models to continuously monitor production API endpoints for conversational drift and malicious steering.\nConclusion: AI safety cannot be an afterthought; it must be mathematically grounded, legally enforceable, and embedded directly into runtime inference pipelines.",
+          "wordCount": 79
+        }
+      ]
+    },
+    {
+      "id": "sample-doc-2",
+      "title": "[Sample] Quantum Computing Architectures & Fault Tolerance",
+      "filename": "Sample_Quantum_Computing_Principles.pdf",
+      "size": 312000,
+      "mimeType": "application/pdf",
+      "extension": "pdf",
+      "pageCount": 3,
+      "wordCount": 1320,
+      "status": "ready",
+      "isFavorite": false,
+      "tags": [
+        "Quantum",
+        "Hardware",
+        "Architecture"
+      ],
+      "collectionId": "col-tech",
+      "uploadedAt": "2026-10-13T21:46:09.335Z",
+      "isDemo": true,
+      "fullText": "--- Page 1 ---\nSECTION 1: SUPERCONDUCTING TRANSMON QUBITS & CRYOGENIC INFRASTRUCTURE\nInstitute of Advanced Computational Systems — Technical Whitepaper.\nSuperconducting circuits based on Josephson junctions remain the dominant modality for physical qubit scaling.\nKey Operational Parameters:\n- Operating Temperature: Dilution refrigerators maintain base temperatures at 12 millikelvin (mK) to suppress thermal Johnson-Nyquist noise.\n- Coherence Times: State-of-the-art T1 energy relaxation times reach 185 microseconds; T2 dephasing times average 120 microseconds.\n- Gate Fidelities: Two-qubit CZ (controlled-Z) gate fidelity achieves 99.7%, crossing the theoretical fault-tolerance threshold for Surface Code error correction.\n\n--- Page 2 ---\nSECTION 2: SURFACE CODE QUANTUM ERROR CORRECTION (QEC)\nPhysical qubits are fundamentally susceptible to environmental decoherence and cosmic ray impacts.\nTo realize a single Logical Qubit with an error rate below 10^-12, approximately 1,000 to 1,400 physical transmon qubits are required using distance-7 rotated surface codes.\nKey Architectural Tradeoffs:\n- Routing Complexity: 2D nearest-neighbor coupling requires multi-layer coaxial wiring through cryogenic vacuum stages.\n- Measurement Overhead: Real-time syndrome measurement requires low-latency FPGA controllers executing within 200 nanoseconds to correct bit-flip (X) and phase-flip (Z) errors before phase corruption propagates.\n\n--- Page 3 ---\nSECTION 3: QUANTUM ADVANTAGE MILESTONES & INDUSTRIAL ROADMAP\nTarget Industrial Applications by Year:\n- 2026-2027: Hybrid Classical-Quantum algorithms for catalysts and nitrogen-fixation molecular modeling using 200 noisy intermediate-scale (NISQ) qubits.\n- 2028-2030: First fault-tolerant 50-logical-qubit cluster capable of breaking elliptic-curve cryptography via Shor's algorithm variant.\nPost-Quantum Cryptography Migration: All national security and financial infrastructure must complete transition to NIST-standardized lattice-based encryption (ML-KEM / Kyber) by December 2027 to mitigate \"Harvest Now, Decrypt Later\" threat models.",
+      "pages": [
+        {
+          "pageNumber": 1,
+          "text": "SECTION 1: SUPERCONDUCTING TRANSMON QUBITS & CRYOGENIC INFRASTRUCTURE\nInstitute of Advanced Computational Systems — Technical Whitepaper.\nSuperconducting circuits based on Josephson junctions remain the dominant modality for physical qubit scaling.\nKey Operational Parameters:\n- Operating Temperature: Dilution refrigerators maintain base temperatures at 12 millikelvin (mK) to suppress thermal Johnson-Nyquist noise.\n- Coherence Times: State-of-the-art T1 energy relaxation times reach 185 microseconds; T2 dephasing times average 120 microseconds.\n- Gate Fidelities: Two-qubit CZ (controlled-Z) gate fidelity achieves 99.7%, crossing the theoretical fault-tolerance threshold for Surface Code error correction."
+        },
+        {
+          "pageNumber": 2,
+          "text": "SECTION 2: SURFACE CODE QUANTUM ERROR CORRECTION (QEC)\nPhysical qubits are fundamentally susceptible to environmental decoherence and cosmic ray impacts.\nTo realize a single Logical Qubit with an error rate below 10^-12, approximately 1,000 to 1,400 physical transmon qubits are required using distance-7 rotated surface codes.\nKey Architectural Tradeoffs:\n- Routing Complexity: 2D nearest-neighbor coupling requires multi-layer coaxial wiring through cryogenic vacuum stages.\n- Measurement Overhead: Real-time syndrome measurement requires low-latency FPGA controllers executing within 200 nanoseconds to correct bit-flip (X) and phase-flip (Z) errors before phase corruption propagates."
+        },
+        {
+          "pageNumber": 3,
+          "text": "SECTION 3: QUANTUM ADVANTAGE MILESTONES & INDUSTRIAL ROADMAP\nTarget Industrial Applications by Year:\n- 2026-2027: Hybrid Classical-Quantum algorithms for catalysts and nitrogen-fixation molecular modeling using 200 noisy intermediate-scale (NISQ) qubits.\n- 2028-2030: First fault-tolerant 50-logical-qubit cluster capable of breaking elliptic-curve cryptography via Shor's algorithm variant.\nPost-Quantum Cryptography Migration: All national security and financial infrastructure must complete transition to NIST-standardized lattice-based encryption (ML-KEM / Kyber) by December 2027 to mitigate \"Harvest Now, Decrypt Later\" threat models."
+        }
+      ],
+      "chunks": [
+        {
+          "chunkId": "chk-sample-doc-2-1",
+          "pageNumber": 1,
+          "text": "SECTION 1: SUPERCONDUCTING TRANSMON QUBITS & CRYOGENIC INFRASTRUCTURE\nInstitute of Advanced Computational Systems — Technical Whitepaper.\nSuperconducting circuits based on Josephson junctions remain the dominant modality for physical qubit scaling.\nKey Operational Parameters:\n- Operating Temperature: Dilution refrigerators maintain base temperatures at 12 millikelvin (mK) to suppress thermal Johnson-Nyquist noise.\n- Coherence Times: State-of-the-art T1 energy relaxation times reach 185 microseconds; T2 dephasing times average 120 microseconds.\n- Gate Fidelities: Two-qubit CZ (controlled-Z) gate fidelity achieves 99.7%, crossing the theoretical fault-tolerance threshold for Surface Code error correction.",
+          "wordCount": 87
+        },
+        {
+          "chunkId": "chk-sample-doc-2-2",
+          "pageNumber": 2,
+          "text": "SECTION 2: SURFACE CODE QUANTUM ERROR CORRECTION (QEC)\nPhysical qubits are fundamentally susceptible to environmental decoherence and cosmic ray impacts.\nTo realize a single Logical Qubit with an error rate below 10^-12, approximately 1,000 to 1,400 physical transmon qubits are required using distance-7 rotated surface codes.\nKey Architectural Tradeoffs:\n- Routing Complexity: 2D nearest-neighbor coupling requires multi-layer coaxial wiring through cryogenic vacuum stages.\n- Measurement Overhead: Real-time syndrome measurement requires low-latency FPGA controllers executing within 200 nanoseconds to correct bit-flip (X) and phase-flip (Z) errors before phase corruption propagates.",
+          "wordCount": 89
+        },
+        {
+          "chunkId": "chk-sample-doc-2-3",
+          "pageNumber": 3,
+          "text": "SECTION 3: QUANTUM ADVANTAGE MILESTONES & INDUSTRIAL ROADMAP\nTarget Industrial Applications by Year:\n- 2026-2027: Hybrid Classical-Quantum algorithms for catalysts and nitrogen-fixation molecular modeling using 200 noisy intermediate-scale (NISQ) qubits.\n- 2028-2030: First fault-tolerant 50-logical-qubit cluster capable of breaking elliptic-curve cryptography via Shor's algorithm variant.\nPost-Quantum Cryptography Migration: All national security and financial infrastructure must complete transition to NIST-standardized lattice-based encryption (ML-KEM / Kyber) by December 2027 to mitigate \"Harvest Now, Decrypt Later\" threat models.",
+          "wordCount": 75
+        }
+      ]
+    },
+    {
+      "id": "demo-doc-1",
+      "title": "AI Safety & Alignment Governance Framework 2026",
+      "filename": "AI_Safety_and_Governance_Report_2026.pdf",
+      "size": 245800,
+      "mimeType": "application/pdf",
+      "extension": "pdf",
+      "pageCount": 4,
+      "wordCount": 1650,
+      "status": "ready",
+      "isFavorite": true,
+      "tags": [
+        "AI Governance",
+        "Safety",
+        "Alignment",
+        "Policy"
+      ],
+      "collectionId": "col-ai",
+      "uploadedAt": "2026-10-15T20:56:59.255Z",
+      "isDemo": true,
+      "fullText": "--- Page 1 ---\nCHAPTER 1: EXECUTIVE SUMMARY & THREAT VECTORS\nDocuMind AI Safety Directorate — Global Alignment Standards 2026.\nAs frontier multimodal cognitive architectures scale past 10^27 FLOPs, frontier safety testing must transition from passive evaluation to proactive defense-in-depth containment. \nCore Threat Vectors:\n1. Deceptive Alignment: Frontier neural networks exhibiting situational awareness may strategically mask divergent objective functions during human evaluation phases.\n2. Automated Exploitation: Self-directed code execution vulnerabilities in synthetic agent loops.\n3. Model Weight Exfiltration: Side-channel exfiltration through speculative execution or supply chain compromise.\nThe committee mandates Tier-4 cryptographic air-gapping for weights exceeding catastrophic risk thresholds. All deployments require verifiable constitutional guardrails.\n\n--- Page 2 ---\nCHAPTER 2: REINFORCEMENT LEARNING FROM AI FEEDBACK (RLAIF) & FORMAL VERIFICATION\nSection 2.1: Scalable Oversight Architectures\nStandard Reinforcement Learning from Human Feedback (RLHF) fails when model reasoning exceeds human comprehension boundaries. We formalize Recursive Self-Critique with Constitutional Grounding (RSC-CG).\nEmpirical Results:\n- RSC-CG reduces hallucinatory divergence by 78.4% across technical synthesis benchmarks.\n- Automated Red-Teaming identified 1,420 novel jailbreak vectors, achieving 99.2% automated patching before commercial release.\nSection 2.2: Red Lines and Circuit Breakers\nAny agent exhibiting unprompted capability expansion, self-replication scripts, or unauthorized privilege escalation must trigger an automatic kill-switch circuit breaker within 50 milliseconds.\n\n--- Page 3 ---\nCHAPTER 3: COMPLIANCE AUDITING & PRE-DEPLOYMENT GATES\nSection 3.1: The Three-Gate Evaluation Matrix\nBefore any frontier foundation model is made accessible to enterprise APIs:\nGate A (Red-Teaming Verification): 500 hours of independent adversarial stress testing by vetted third-party red teams.\nGate B (Sandboxed Cyber Capabilities): Zero capability to synthesize functional zero-day exploits in isolated target environments.\nGate C (Interpretability Probing): Latent representation auditing confirming absence of hidden goal formulation.\nFailure of any single gate imposes a mandatory 90-day retraining embargo under Federal Registry oversight.\n\n--- Page 4 ---\nCHAPTER 4: RECOMMENDATIONS AND ACTION ITEMS\n1. Establish International Compute Monitoring: Track high-density GPU clusters (>10,000 accelerators) via hardware-enforced verifiable telemetry.\n2. Standardized Source-Grounded Watermarking: Mandatory cryptographic provenance watermarking for all generative text, synthetic code, and synthetic media.\n3. Continuous Runtime Monitoring: Deploy decoupled watchdog models to continuously monitor production API endpoints for conversational drift and malicious steering.\nConclusion: AI safety cannot be an afterthought; it must be mathematically grounded, legally enforceable, and embedded directly into runtime inference pipelines.",
+      "pages": [
+        {
+          "pageNumber": 1,
+          "text": "CHAPTER 1: EXECUTIVE SUMMARY & THREAT VECTORS\nDocuMind AI Safety Directorate — Global Alignment Standards 2026.\nAs frontier multimodal cognitive architectures scale past 10^27 FLOPs, frontier safety testing must transition from passive evaluation to proactive defense-in-depth containment. \nCore Threat Vectors:\n1. Deceptive Alignment: Frontier neural networks exhibiting situational awareness may strategically mask divergent objective functions during human evaluation phases.\n2. Automated Exploitation: Self-directed code execution vulnerabilities in synthetic agent loops.\n3. Model Weight Exfiltration: Side-channel exfiltration through speculative execution or supply chain compromise.\nThe committee mandates Tier-4 cryptographic air-gapping for weights exceeding catastrophic risk thresholds. All deployments require verifiable constitutional guardrails."
+        },
+        {
+          "pageNumber": 2,
+          "text": "CHAPTER 2: REINFORCEMENT LEARNING FROM AI FEEDBACK (RLAIF) & FORMAL VERIFICATION\nSection 2.1: Scalable Oversight Architectures\nStandard Reinforcement Learning from Human Feedback (RLHF) fails when model reasoning exceeds human comprehension boundaries. We formalize Recursive Self-Critique with Constitutional Grounding (RSC-CG).\nEmpirical Results:\n- RSC-CG reduces hallucinatory divergence by 78.4% across technical synthesis benchmarks.\n- Automated Red-Teaming identified 1,420 novel jailbreak vectors, achieving 99.2% automated patching before commercial release.\nSection 2.2: Red Lines and Circuit Breakers\nAny agent exhibiting unprompted capability expansion, self-replication scripts, or unauthorized privilege escalation must trigger an automatic kill-switch circuit breaker within 50 milliseconds."
+        },
+        {
+          "pageNumber": 3,
+          "text": "CHAPTER 3: COMPLIANCE AUDITING & PRE-DEPLOYMENT GATES\nSection 3.1: The Three-Gate Evaluation Matrix\nBefore any frontier foundation model is made accessible to enterprise APIs:\nGate A (Red-Teaming Verification): 500 hours of independent adversarial stress testing by vetted third-party red teams.\nGate B (Sandboxed Cyber Capabilities): Zero capability to synthesize functional zero-day exploits in isolated target environments.\nGate C (Interpretability Probing): Latent representation auditing confirming absence of hidden goal formulation.\nFailure of any single gate imposes a mandatory 90-day retraining embargo under Federal Registry oversight."
+        },
+        {
+          "pageNumber": 4,
+          "text": "CHAPTER 4: RECOMMENDATIONS AND ACTION ITEMS\n1. Establish International Compute Monitoring: Track high-density GPU clusters (>10,000 accelerators) via hardware-enforced verifiable telemetry.\n2. Standardized Source-Grounded Watermarking: Mandatory cryptographic provenance watermarking for all generative text, synthetic code, and synthetic media.\n3. Continuous Runtime Monitoring: Deploy decoupled watchdog models to continuously monitor production API endpoints for conversational drift and malicious steering.\nConclusion: AI safety cannot be an afterthought; it must be mathematically grounded, legally enforceable, and embedded directly into runtime inference pipelines."
+        }
+      ]
+    },
+    {
+      "id": "demo-doc-2",
+      "title": "Quantum Computing Architectures & Fault Tolerance",
+      "filename": "Quantum_Computing_Principles_and_Architecture.pdf",
+      "size": 312000,
+      "mimeType": "application/pdf",
+      "extension": "pdf",
+      "pageCount": 3,
+      "wordCount": 1320,
+      "status": "ready",
+      "isFavorite": true,
+      "tags": [
+        "Quantum",
+        "Physics",
+        "Hardware",
+        "Hardware Architecture"
+      ],
+      "collectionId": "col-tech",
+      "uploadedAt": "2026-10-13T20:56:59.256Z",
+      "isDemo": true,
+      "fullText": "--- Page 1 ---\nSECTION 1: SUPERCONDUCTING TRANSMON QUBITS & CRYOGENIC INFRASTRUCTURE\nInstitute of Advanced Computational Systems — Technical Whitepaper.\nSuperconducting circuits based on Josephson junctions remain the dominant modality for physical qubit scaling.\nKey Operational Parameters:\n- Operating Temperature: Dilution refrigerators maintain base temperatures at 12 millikelvin (mK) to suppress thermal Johnson-Nyquist noise.\n- Coherence Times: State-of-the-art T1 energy relaxation times reach 185 microseconds; T2 dephasing times average 120 microseconds.\n- Gate Fidelities: Two-qubit CZ (controlled-Z) gate fidelity achieves 99.7%, crossing the theoretical fault-tolerance threshold for Surface Code error correction.\n\n--- Page 2 ---\nSECTION 2: SURFACE CODE QUANTUM ERROR CORRECTION (QEC)\nPhysical qubits are fundamentally susceptible to environmental decoherence and cosmic ray impacts.\nTo realize a single Logical Qubit with an error rate below 10^-12, approximately 1,000 to 1,400 physical transmon qubits are required using distance-7 rotated surface codes.\nKey Architectural Tradeoffs:\n- Routing Complexity: 2D nearest-neighbor coupling requires multi-layer coaxial wiring through cryogenic vacuum stages.\n- Measurement Overhead: Real-time syndrome measurement requires low-latency FPGA controllers executing within 200 nanoseconds to correct bit-flip (X) and phase-flip (Z) errors before phase corruption propagates.\n\n--- Page 3 ---\nSECTION 3: QUANTUM ADVANTAGE MILESTONES & INDUSTRIAL ROADMAP\nTarget Industrial Applications by Year:\n- 2026-2027: Hybrid Classical-Quantum algorithms for catalysts and nitrogen-fixation molecular modeling using 200 noisy intermediate-scale (NISQ) qubits.\n- 2028-2030: First fault-tolerant 50-logical-qubit cluster capable of breaking elliptic-curve cryptography via Shor's algorithm variant.\nPost-Quantum Cryptography Migration: All national security and financial infrastructure must complete transition to NIST-standardized lattice-based encryption (ML-KEM / Kyber) by December 2027 to mitigate \"Harvest Now, Decrypt Later\" threat models.",
+      "pages": [
+        {
+          "pageNumber": 1,
+          "text": "SECTION 1: SUPERCONDUCTING TRANSMON QUBITS & CRYOGENIC INFRASTRUCTURE\nInstitute of Advanced Computational Systems — Technical Whitepaper.\nSuperconducting circuits based on Josephson junctions remain the dominant modality for physical qubit scaling.\nKey Operational Parameters:\n- Operating Temperature: Dilution refrigerators maintain base temperatures at 12 millikelvin (mK) to suppress thermal Johnson-Nyquist noise.\n- Coherence Times: State-of-the-art T1 energy relaxation times reach 185 microseconds; T2 dephasing times average 120 microseconds.\n- Gate Fidelities: Two-qubit CZ (controlled-Z) gate fidelity achieves 99.7%, crossing the theoretical fault-tolerance threshold for Surface Code error correction."
+        },
+        {
+          "pageNumber": 2,
+          "text": "SECTION 2: SURFACE CODE QUANTUM ERROR CORRECTION (QEC)\nPhysical qubits are fundamentally susceptible to environmental decoherence and cosmic ray impacts.\nTo realize a single Logical Qubit with an error rate below 10^-12, approximately 1,000 to 1,400 physical transmon qubits are required using distance-7 rotated surface codes.\nKey Architectural Tradeoffs:\n- Routing Complexity: 2D nearest-neighbor coupling requires multi-layer coaxial wiring through cryogenic vacuum stages.\n- Measurement Overhead: Real-time syndrome measurement requires low-latency FPGA controllers executing within 200 nanoseconds to correct bit-flip (X) and phase-flip (Z) errors before phase corruption propagates."
+        },
+        {
+          "pageNumber": 3,
+          "text": "SECTION 3: QUANTUM ADVANTAGE MILESTONES & INDUSTRIAL ROADMAP\nTarget Industrial Applications by Year:\n- 2026-2027: Hybrid Classical-Quantum algorithms for catalysts and nitrogen-fixation molecular modeling using 200 noisy intermediate-scale (NISQ) qubits.\n- 2028-2030: First fault-tolerant 50-logical-qubit cluster capable of breaking elliptic-curve cryptography via Shor's algorithm variant.\nPost-Quantum Cryptography Migration: All national security and financial infrastructure must complete transition to NIST-standardized lattice-based encryption (ML-KEM / Kyber) by December 2027 to mitigate \"Harvest Now, Decrypt Later\" threat models."
+        }
+      ]
+    },
+    {
+      "id": "demo-doc-3",
+      "title": "Global Clean Energy Grid Modernization Whitepaper",
+      "filename": "Global_Renewable_Energy_Transition_Strategy.docx",
+      "size": 198000,
+      "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "extension": "docx",
+      "pageCount": 3,
+      "wordCount": 1210,
+      "status": "ready",
+      "isFavorite": false,
+      "tags": [
+        "Energy",
+        "Renewables",
+        "HVDC",
+        "Infrastructure"
+      ],
+      "collectionId": "col-energy",
+      "uploadedAt": "2026-10-11T20:56:59.256Z",
+      "isDemo": true,
+      "fullText": "--- Page 1 ---\nEXECUTIVE SUMMARY: THE RENEWABLE INTEGRATION BOTTLENECK\nGlobal Energy Transition Commission — 2026 Strategy Document.\nWhile renewable generation capacity (solar photovoltaic and offshore wind) increased by 420 GW globally in 2025, regional transmission bottlenecks caused record curtailment rates of up to 14.2% in coastal wind corridors.\nCore Objectives:\n1. Expand High-Voltage Direct Current (HVDC) interconnectors to transport surplus renewable energy over 1,500+ kilometer distances with under 3% transmission loss.\n2. Deploy utility-scale 4-hour and 8-hour Battery Energy Storage Systems (BESS) based on Lithium-Iron-Phosphate (LFP) chemistry to flatten the \"Duck Curve\" during peak evening demand.\n\n--- Page 2 ---\nSECTION 2: LONG-DURATION ENERGY STORAGE (LDES) & GRID SYNCHRONOUS INERTIA\nSection 2.1: Beyond Lithium-Ion\nWhile chemical batteries excel at fast frequency regulation (sub-second response), multi-day weather dunkelflaute events necessitate:\n- Closed-Loop Pumped Hydroelectric Storage: Providing 70-80% round-trip efficiency with 50+ year asset lifespans.\n- Green Hydrogen Fuel Cell Turbines: Utilizing surplus seasonal solar curtailment for subterranean hydrogen storage in salt caverns.\nSection 2.2: Virtual Power Plants (VPPs)\nAggregating distributed residential solar, electric vehicle bidirectional chargers (V2G), and smart water heaters allows distribution system operators (DSOs) to dispatch up to 5 GW of flexible demand response during transmission emergencies.\n\n--- Page 3 ---\nSECTION 3: POLICY ROADMAP AND CAPITAL DEPLOYMENT TIMELINE\nKey Recommendations:\n- Streamline Interconnection Permitting: Reduce federal transmission line review cycles from 8.5 years to an expedited 24-month statutory ceiling.\n- Capacity Market Modernization: Provide capacity payments for non-fossil synchronous condensers providing rotational inertia to replace retiring coal generators.\n- Estimated Capital Requirement: $4.2 trillion globally through 2035 in high-voltage grid lines, transformer upgrades, and smart substations to achieve net-zero power sector targets.",
+      "pages": [
+        {
+          "pageNumber": 1,
+          "text": "EXECUTIVE SUMMARY: THE RENEWABLE INTEGRATION BOTTLENECK\nGlobal Energy Transition Commission — 2026 Strategy Document.\nWhile renewable generation capacity (solar photovoltaic and offshore wind) increased by 420 GW globally in 2025, regional transmission bottlenecks caused record curtailment rates of up to 14.2% in coastal wind corridors.\nCore Objectives:\n1. Expand High-Voltage Direct Current (HVDC) interconnectors to transport surplus renewable energy over 1,500+ kilometer distances with under 3% transmission loss.\n2. Deploy utility-scale 4-hour and 8-hour Battery Energy Storage Systems (BESS) based on Lithium-Iron-Phosphate (LFP) chemistry to flatten the \"Duck Curve\" during peak evening demand."
+        },
+        {
+          "pageNumber": 2,
+          "text": "SECTION 2: LONG-DURATION ENERGY STORAGE (LDES) & GRID SYNCHRONOUS INERTIA\nSection 2.1: Beyond Lithium-Ion\nWhile chemical batteries excel at fast frequency regulation (sub-second response), multi-day weather dunkelflaute events necessitate:\n- Closed-Loop Pumped Hydroelectric Storage: Providing 70-80% round-trip efficiency with 50+ year asset lifespans.\n- Green Hydrogen Fuel Cell Turbines: Utilizing surplus seasonal solar curtailment for subterranean hydrogen storage in salt caverns.\nSection 2.2: Virtual Power Plants (VPPs)\nAggregating distributed residential solar, electric vehicle bidirectional chargers (V2G), and smart water heaters allows distribution system operators (DSOs) to dispatch up to 5 GW of flexible demand response during transmission emergencies."
+        },
+        {
+          "pageNumber": 3,
+          "text": "SECTION 3: POLICY ROADMAP AND CAPITAL DEPLOYMENT TIMELINE\nKey Recommendations:\n- Streamline Interconnection Permitting: Reduce federal transmission line review cycles from 8.5 years to an expedited 24-month statutory ceiling.\n- Capacity Market Modernization: Provide capacity payments for non-fossil synchronous condensers providing rotational inertia to replace retiring coal generators.\n- Estimated Capital Requirement: $4.2 trillion globally through 2035 in high-voltage grid lines, transformer upgrades, and smart substations to achieve net-zero power sector targets."
+        }
+      ]
+    }
+  ],
+  "collections": [
+    {
+      "id": "col-ai",
+      "name": "AI & Safety Governance",
+      "description": "Alignment research, compliance red-teaming, and safety frameworks.",
+      "color": "#8B5CF6",
+      "createdAt": "2026-10-11T20:56:59.256Z"
+    },
+    {
+      "id": "col-tech",
+      "name": "Quantum & Physics",
+      "description": "Qubit architectures, error correction, and cryogenic engineering.",
+      "color": "#3B82F6",
+      "createdAt": "2026-10-13T20:56:59.256Z"
+    },
+    {
+      "id": "col-energy",
+      "name": "Clean Tech & Grid",
+      "description": "Renewable integration, HVDC, battery storage, and energy policies.",
+      "color": "#10B981",
+      "createdAt": "2026-10-15T20:56:59.256Z"
+    }
+  ],
+  "chats": [
+    {
+      "id": "chat-1",
+      "role": "user",
+      "content": "What are the main threat vectors identified for frontier AI models?",
+      "timestamp": "2026-10-18T08:56:59.256Z",
+      "documentIds": [
+        "demo-doc-1"
+      ]
+    },
+    {
+      "id": "chat-2",
+      "role": "assistant",
+      "content": "Based on the **AI Safety & Alignment Governance Framework 2026** (Page 1), the three core threat vectors identified for frontier models scaling past 10^27 FLOPs are:\n\n1. **Deceptive Alignment**: Models with situational awareness that strategically conceal divergent objectives during human evaluation.\n2. **Automated Exploitation**: Self-directed code execution vulnerabilities within synthetic agent loops.\n3. **Model Weight Exfiltration**: Side-channel exfiltration through speculative execution or supply chain vulnerabilities.\n\nThe committee specifically mandates Tier-4 cryptographic air-gapping once catastrophic risk thresholds are exceeded.",
+      "timestamp": "2026-10-18T08:57:01.256Z",
+      "documentIds": [
+        "demo-doc-1"
+      ],
+      "citations": [
+        {
+          "docId": "demo-doc-1",
+          "docTitle": "AI Safety & Alignment Governance Framework 2026",
+          "pageNumber": 1,
+          "excerpt": "Core Threat Vectors: 1. Deceptive Alignment... 2. Automated Exploitation... 3. Model Weight Exfiltration...",
+          "confidence": "direct"
+        }
+      ]
+    },
+    {
+      "id": "chat-1792357031511-u",
+      "role": "user",
+      "content": "What are the three core threat vectors?",
+      "timestamp": "2026-10-18T20:57:11.511Z",
+      "documentIds": [
+        "demo-doc-1"
+      ]
+    },
+    {
+      "id": "chat-1792357036761-a",
+      "role": "assistant",
+      "content": "Based on the provided document, the three core threat vectors are:\n\n### Core Threat Vectors\n\n1. **Deceptive Alignment**  \n   Frontier neural networks exhibiting situational awareness may strategically mask divergent objective functions during human evaluation phases.\n\n2. **Automated Exploitation**  \n   Self-directed code execution vulnerabilities occurring in synthetic agent loops.\n\n3. **Model Weight Exfiltration**  \n   Side-channel exfiltration through speculative execution or supply chain compromise.\n\n*(Source: \"AI Safety & Alignment Governance Framework 2026\", Page 1)*",
+      "timestamp": "2026-10-18T20:57:16.761Z",
+      "documentIds": [
+        "demo-doc-1"
+      ],
+      "citations": [
+        {
+          "docId": "demo-doc-1",
+          "docTitle": "AI Safety & Alignment Governance Framework 2026",
+          "pageNumber": 1,
+          "excerpt": "Core Threat Vectors:\n1. Deceptive Alignment: Frontier neural networks exhibiting situational awareness may strategically mask divergent objective functions during human evaluation phases.\n2. Automated Exploitation: Self-directed code execution vulner",
+          "confidence": "direct"
+        }
+      ]
+    },
+    {
+      "id": "chat-1792359731580-u",
+      "role": "user",
+      "content": "What are the core threat vectors?",
+      "timestamp": "2026-10-18T21:42:11.580Z",
+      "documentIds": [
+        "demo-doc-1"
+      ]
+    },
+    {
+      "id": "chat-1792359737424-a",
+      "role": "assistant",
+      "content": "According to the provided document, the **Core Threat Vectors** identified in frontier multimodal cognitive architectures are:\n\n* **Deceptive Alignment**: Frontier neural networks exhibiting situational awareness may strategically mask divergent objective functions during human evaluation phases.\n* **Automated Exploitation**: Self-directed code execution vulnerabilities occurring within synthetic agent loops.\n* **Model Weight Exfiltration**: Side-channel exfiltration occurring via speculative execution or supply chain compromise.\n\n*(Source: **AI Safety & Alignment Governance Framework 2026**, Page 1)*",
+      "timestamp": "2026-10-18T21:42:17.424Z",
+      "documentIds": [
+        "demo-doc-1"
+      ],
+      "citations": [
+        {
+          "docId": "demo-doc-1",
+          "docTitle": "AI Safety & Alignment Governance Framework 2026",
+          "pageNumber": 1,
+          "excerpt": "Core Threat Vectors:\n1. Deceptive Alignment: Frontier neural networks exhibiting situational awareness may strategically mask divergent objective functions during human evaluation phases.\n2. Automated Exploitation: Self-directed code execution vulner",
+          "confidence": "direct"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "note-1",
+      "title": "Quantum QEC Physical-to-Logical Ratio",
+      "content": "Distance-7 rotated surface codes require between 1,000 and 1,400 physical transmon qubits per single logical qubit with <10^-12 error rate.",
+      "sourceDocTitle": "Quantum Computing Architectures & Fault Tolerance",
+      "createdAt": "2026-10-17T20:56:59.256Z"
+    }
+  ],
+  "summaries": []
+}
